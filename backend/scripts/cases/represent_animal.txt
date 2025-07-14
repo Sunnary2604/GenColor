@@ -1,0 +1,8 @@
+fox
+tiger
+lion
+elephant
+crocodile
+flamingo
+penguin
+peacock

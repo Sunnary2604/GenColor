@@ -1,0 +1,289 @@
+concept,delta_e,method,title,Approach,type,Segment
+apple,10.23156189,clipart-SAM,AC-SAM,AI,base,SAM
+apple,21.5617676,photo-SAM,AP-SAM,AI,base,SAM
+apple,8.747191479,query-SAM,Q-SAM,Query,base,SAM
+apple,8.281566424,queryclipart-SAM,QC-SAM,Query,base,SAM
+apple,10.23156189,clipart-bg_remove,AC-BG,AI,base,BG Remove
+apple,21.601204,photo-bg_remove,AP-BG,AI,base,BG Remove
+apple,34.26372247,query-bg_remove,Q-BG,Query,base,BG Remove
+apple,8.586707965,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+banana,4.850963312,clipart-SAM,AC-SAM,AI,base,SAM
+banana,11.71278575,photo-SAM,AP-SAM,AI,base,SAM
+banana,4.850963312,query-SAM,Q-SAM,Query,base,SAM
+banana,4.850963312,queryclipart-SAM,QC-SAM,Query,base,SAM
+banana,5.107876316,clipart-bg_remove,AC-BG,AI,base,BG Remove
+banana,10.3593879,photo-bg_remove,AP-BG,AI,base,BG Remove
+banana,5.107876316,query-bg_remove,Q-BG,Query,base,BG Remove
+banana,5.107876316,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+blueberry,2.308588884,clipart-SAM,AC-SAM,AI,base,SAM
+blueberry,13.42166205,photo-SAM,AP-SAM,AI,base,SAM
+blueberry,11.55609007,query-SAM,Q-SAM,Query,base,SAM
+blueberry,24.42746268,queryclipart-SAM,QC-SAM,Query,base,SAM
+blueberry,11.89374042,clipart-bg_remove,AC-BG,AI,base,BG Remove
+blueberry,13.37867244,photo-bg_remove,AP-BG,AI,base,BG Remove
+blueberry,11.10035698,query-bg_remove,Q-BG,Query,base,BG Remove
+blueberry,24.67732034,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+carrot,3.866180382,clipart-SAM,AC-SAM,AI,base,SAM
+carrot,2.679813631,photo-SAM,AP-SAM,AI,base,SAM
+carrot,6.210773261,query-SAM,Q-SAM,Query,base,SAM
+carrot,10.07282809,queryclipart-SAM,QC-SAM,Query,base,SAM
+carrot,3.866180382,clipart-bg_remove,AC-BG,AI,base,BG Remove
+carrot,2.984468676,photo-bg_remove,AP-BG,AI,base,BG Remove
+carrot,2.563341368,query-bg_remove,Q-BG,Query,base,BG Remove
+carrot,1.931897145,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+celery,9.520812642,clipart-SAM,AC-SAM,AI,base,SAM
+celery,30.02376637,photo-SAM,AP-SAM,AI,base,SAM
+celery,30.02376637,query-SAM,Q-SAM,Query,base,SAM
+celery,6.912963813,queryclipart-SAM,QC-SAM,Query,base,SAM
+celery,8.56233201,clipart-bg_remove,AC-BG,AI,base,BG Remove
+celery,30.03997173,photo-bg_remove,AP-BG,AI,base,BG Remove
+celery,31.01479962,query-bg_remove,Q-BG,Query,base,BG Remove
+celery,8.779599531,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+cherry,10.15279863,clipart-SAM,AC-SAM,AI,base,SAM
+cherry,9.409748365,photo-SAM,AP-SAM,AI,base,SAM
+cherry,6.562279271,query-SAM,Q-SAM,Query,base,SAM
+cherry,2.633979886,queryclipart-SAM,QC-SAM,Query,base,SAM
+cherry,8.555921301,clipart-bg_remove,AC-BG,AI,base,BG Remove
+cherry,15.97124713,photo-bg_remove,AP-BG,AI,base,BG Remove
+cherry,15.58431556,query-bg_remove,Q-BG,Query,base,BG Remove
+cherry,2.23435992,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+clear_sea,15.14023795,clipart-SAM,AC-SAM,AI,context,SAM
+clear_sea,25.30181683,photo-SAM,AP-SAM,AI,context,SAM
+clear_sea,19.1746129,query-SAM,Q-SAM,Query,context,SAM
+clear_sea,28.42593387,queryclipart-SAM,QC-SAM,Query,context,SAM
+clear_sea,50.88970711,clipart-bg_remove,AC-BG,AI,context,BG Remove
+clear_sea,50.66712713,photo-bg_remove,AP-BG,AI,context,BG Remove
+clear_sea,50.66712713,query-bg_remove,Q-BG,Query,context,BG Remove
+clear_sea,50.88970711,queryclipart-bg_remove,QC-BG,Query,context,BG Remove
+clear_sky,14.89641182,clipart-SAM,AC-SAM,AI,context,SAM
+clear_sky,22.1541592,photo-SAM,AP-SAM,AI,context,SAM
+clear_sky,41.73488782,query-SAM,Q-SAM,Query,context,SAM
+clear_sky,9.886915883,queryclipart-SAM,QC-SAM,Query,context,SAM
+clear_sky,69.8252818,clipart-bg_remove,AC-BG,AI,context,BG Remove
+clear_sky,70.83764973,photo-bg_remove,AP-BG,AI,context,BG Remove
+clear_sky,69.8252818,query-bg_remove,Q-BG,Query,context,BG Remove
+clear_sky,14.45898947,queryclipart-bg_remove,QC-BG,Query,context,BG Remove
+corn,20.94574302,clipart-SAM,AC-SAM,AI,base,SAM
+corn,20.94574302,photo-SAM,AP-SAM,AI,base,SAM
+corn,20.94574302,query-SAM,Q-SAM,Query,base,SAM
+corn,15.92120763,queryclipart-SAM,QC-SAM,Query,base,SAM
+corn,22.8969315,clipart-bg_remove,AC-BG,AI,base,BG Remove
+corn,20.76593048,photo-bg_remove,AP-BG,AI,base,BG Remove
+corn,15.80490577,query-bg_remove,Q-BG,Query,base,BG Remove
+corn,10.69865729,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+crocodile,10.48937966,clipart-SAM,AC-SAM,AI,base,SAM
+crocodile,24.55353065,photo-SAM,AP-SAM,AI,base,SAM
+crocodile,23.98411878,query-SAM,Q-SAM,Query,base,SAM
+crocodile,24.19069855,queryclipart-SAM,QC-SAM,Query,base,SAM
+crocodile,22.45000264,clipart-bg_remove,AC-BG,AI,base,BG Remove
+crocodile,23.92092413,photo-bg_remove,AP-BG,AI,base,BG Remove
+crocodile,23.92092413,query-bg_remove,Q-BG,Query,base,BG Remove
+crocodile,38.79649534,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+desert,8.699208773,clipart-SAM,AC-SAM,AI,environment,SAM
+desert,13.83541299,photo-SAM,AP-SAM,AI,environment,SAM
+desert,16.14639065,query-SAM,Q-SAM,Query,environment,SAM
+desert,9.653713327,queryclipart-SAM,QC-SAM,Query,environment,SAM
+desert,8.30395166,clipart-bg_remove,AC-BG,AI,environment,BG Remove
+desert,62.34013064,photo-bg_remove,AP-BG,AI,environment,BG Remove
+desert,62.65462784,query-bg_remove,Q-BG,Query,environment,BG Remove
+desert,23.1808727,queryclipart-bg_remove,QC-BG,Query,environment,BG Remove
+eggplant,13.92383144,clipart-SAM,AC-SAM,AI,base,SAM
+eggplant,23.43199992,photo-SAM,AP-SAM,AI,base,SAM
+eggplant,23.43199992,query-SAM,Q-SAM,Query,base,SAM
+eggplant,13.15929669,queryclipart-SAM,QC-SAM,Query,base,SAM
+eggplant,13.92383144,clipart-bg_remove,AC-BG,AI,base,BG Remove
+eggplant,23.43199992,photo-bg_remove,AP-BG,AI,base,BG Remove
+eggplant,26.57745066,query-bg_remove,Q-BG,Query,base,BG Remove
+eggplant,9.871423757,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+elephant,11.70459252,clipart-SAM,AC-SAM,AI,base,SAM
+elephant,16.09607581,photo-SAM,AP-SAM,AI,base,SAM
+elephant,21.37296975,query-SAM,Q-SAM,Query,base,SAM
+elephant,18.35825342,queryclipart-SAM,QC-SAM,Query,base,SAM
+elephant,11.62990433,clipart-bg_remove,AC-BG,AI,base,BG Remove
+elephant,21.46852293,photo-bg_remove,AP-BG,AI,base,BG Remove
+elephant,25.30224449,query-bg_remove,Q-BG,Query,base,BG Remove
+elephant,21.13790901,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+flamingo,16.71385879,clipart-SAM,AC-SAM,AI,base,SAM
+flamingo,17.5262026,photo-SAM,AP-SAM,AI,base,SAM
+flamingo,15.16878468,query-SAM,Q-SAM,Query,base,SAM
+flamingo,10.11835124,queryclipart-SAM,QC-SAM,Query,base,SAM
+flamingo,16.59813361,clipart-bg_remove,AC-BG,AI,base,BG Remove
+flamingo,12.42323362,photo-bg_remove,AP-BG,AI,base,BG Remove
+flamingo,15.16878468,query-bg_remove,Q-BG,Query,base,BG Remove
+flamingo,9.869456282,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+forest,9.783005566,clipart-SAM,AC-SAM,AI,environment,SAM
+forest,18.91755176,photo-SAM,AP-SAM,AI,environment,SAM
+forest,18.91755176,query-SAM,Q-SAM,Query,environment,SAM
+forest,34.07127547,queryclipart-SAM,QC-SAM,Query,environment,SAM
+forest,43.03972123,clipart-bg_remove,AC-BG,AI,environment,BG Remove
+forest,18.91755176,photo-bg_remove,AP-BG,AI,environment,BG Remove
+forest,18.91755176,query-bg_remove,Q-BG,Query,environment,BG Remove
+forest,18.91755176,queryclipart-bg_remove,QC-BG,Query,environment,BG Remove
+fox,2.086460191,clipart-SAM,AC-SAM,AI,base,SAM
+fox,16.62624063,photo-SAM,AP-SAM,AI,base,SAM
+fox,18.72943217,query-SAM,Q-SAM,Query,base,SAM
+fox,2.61220869,queryclipart-SAM,QC-SAM,Query,base,SAM
+fox,2.086460191,clipart-bg_remove,AC-BG,AI,base,BG Remove
+fox,49.50112252,photo-bg_remove,AP-BG,AI,base,BG Remove
+fox,31.63620156,query-bg_remove,Q-BG,Query,base,BG Remove
+fox,0.276563515,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+glacier,11.840633,clipart-SAM,AC-SAM,AI,environment,SAM
+glacier,14.03023514,photo-SAM,AP-SAM,AI,environment,SAM
+glacier,19.89700995,query-SAM,Q-SAM,Query,environment,SAM
+glacier,0,queryclipart-SAM,QC-SAM,Query,environment,SAM
+glacier,12.07344596,clipart-bg_remove,AC-BG,AI,environment,BG Remove
+glacier,70.84644854,photo-bg_remove,AP-BG,AI,environment,BG Remove
+glacier,70.84644854,query-bg_remove,Q-BG,Query,environment,BG Remove
+glacier,1.011805651,queryclipart-bg_remove,QC-BG,Query,environment,BG Remove
+grape,19.40628156,clipart-SAM,AC-SAM,AI,base,SAM
+grape,26.93689772,photo-SAM,AP-SAM,AI,base,SAM
+grape,82.46782647,query-SAM,Q-SAM,Query,base,SAM
+grape,89.30471212,queryclipart-SAM,QC-SAM,Query,base,SAM
+grape,19.26968708,clipart-bg_remove,AC-BG,AI,base,BG Remove
+grape,11.77814911,photo-bg_remove,AP-BG,AI,base,BG Remove
+grape,25.43019361,query-bg_remove,Q-BG,Query,base,BG Remove
+grape,5.929846015,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+grassland,16.0012466,clipart-SAM,AC-SAM,AI,environment,SAM
+grassland,16.96323305,photo-SAM,AP-SAM,AI,environment,SAM
+grassland,29.31971318,query-SAM,Q-SAM,Query,environment,SAM
+grassland,15.46423939,queryclipart-SAM,QC-SAM,Query,environment,SAM
+grassland,54.78263498,clipart-bg_remove,AC-BG,AI,environment,BG Remove
+grassland,55.47514839,photo-bg_remove,AP-BG,AI,environment,BG Remove
+grassland,55.47514839,query-bg_remove,Q-BG,Query,environment,BG Remove
+grassland,55.47514839,queryclipart-bg_remove,QC-BG,Query,environment,BG Remove
+lake,16.79181269,clipart-SAM,AC-SAM,AI,environment,SAM
+lake,20.33878271,photo-SAM,AP-SAM,AI,environment,SAM
+lake,45.05804358,query-SAM,Q-SAM,Query,environment,SAM
+lake,18.3837784,queryclipart-SAM,QC-SAM,Query,environment,SAM
+lake,59.35997708,clipart-bg_remove,AC-BG,AI,environment,BG Remove
+lake,66.67980283,photo-bg_remove,AP-BG,AI,environment,BG Remove
+lake,57.06538075,query-bg_remove,Q-BG,Query,environment,BG Remove
+lake,58.4674023,queryclipart-bg_remove,QC-BG,Query,environment,BG Remove
+lion,32.14992881,clipart-SAM,AC-SAM,AI,base,SAM
+lion,42.67184403,photo-SAM,AP-SAM,AI,base,SAM
+lion,30.29719151,query-SAM,Q-SAM,Query,base,SAM
+lion,13.25014925,queryclipart-SAM,QC-SAM,Query,base,SAM
+lion,35.47873565,clipart-bg_remove,AC-BG,AI,base,BG Remove
+lion,42.78840317,photo-bg_remove,AP-BG,AI,base,BG Remove
+lion,30.12893416,query-bg_remove,Q-BG,Query,base,BG Remove
+lion,16.18655833,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+lively_forest,11.25780036,clipart-SAM,AC-SAM,AI,context,SAM
+lively_forest,67.72884692,photo-SAM,AP-SAM,AI,context,SAM
+lively_forest,67.72884692,query-SAM,Q-SAM,Query,context,SAM
+lively_forest,22.99435617,queryclipart-SAM,QC-SAM,Query,context,SAM
+lively_forest,69.95706822,clipart-bg_remove,AC-BG,AI,context,BG Remove
+lively_forest,67.72884692,photo-bg_remove,AP-BG,AI,context,BG Remove
+lively_forest,73.03813863,query-bg_remove,Q-BG,Query,context,BG Remove
+lively_forest,69.41949788,queryclipart-bg_remove,QC-BG,Query,context,BG Remove
+mountains,39.36959799,clipart-SAM,AC-SAM,AI,base,SAM
+mountains,32.84929996,photo-SAM,AP-SAM,AI,base,SAM
+mountains,31.77645808,query-SAM,Q-SAM,Query,base,SAM
+mountains,31.77645808,queryclipart-SAM,QC-SAM,Query,base,SAM
+mountains,39.71210113,clipart-bg_remove,AC-BG,AI,base,BG Remove
+mountains,44.83207245,photo-bg_remove,AP-BG,AI,base,BG Remove
+mountains,27.74289714,query-bg_remove,Q-BG,Query,base,BG Remove
+mountains,30.50475061,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+mushroom,19.7681708,clipart-SAM,AC-SAM,AI,base,SAM
+mushroom,18.86723023,photo-SAM,AP-SAM,AI,base,SAM
+mushroom,41.39457765,query-SAM,Q-SAM,Query,base,SAM
+mushroom,44.92743307,queryclipart-SAM,QC-SAM,Query,base,SAM
+mushroom,19.76515057,clipart-bg_remove,AC-BG,AI,base,BG Remove
+mushroom,18.73511503,photo-bg_remove,AP-BG,AI,base,BG Remove
+mushroom,29.75586745,query-bg_remove,Q-BG,Query,base,BG Remove
+mushroom,29.75586745,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+ocean,16.25846623,clipart-SAM,AC-SAM,AI,environment,SAM
+ocean,11.52293587,photo-SAM,AP-SAM,AI,environment,SAM
+ocean,64.57353549,query-SAM,Q-SAM,Query,environment,SAM
+ocean,8.122659151,queryclipart-SAM,QC-SAM,Query,environment,SAM
+ocean,67.31132726,clipart-bg_remove,AC-BG,AI,environment,BG Remove
+ocean,67.31132726,photo-bg_remove,AP-BG,AI,environment,BG Remove
+ocean,65.32621697,query-bg_remove,Q-BG,Query,environment,BG Remove
+ocean,67.31132726,queryclipart-bg_remove,QC-BG,Query,environment,BG Remove
+olive,13.00769366,clipart-SAM,AC-SAM,AI,base,SAM
+olive,23.9234558,photo-SAM,AP-SAM,AI,base,SAM
+olive,18.56658763,query-SAM,Q-SAM,Query,base,SAM
+olive,32.44216059,queryclipart-SAM,QC-SAM,Query,base,SAM
+olive,13.20769513,clipart-bg_remove,AC-BG,AI,base,BG Remove
+olive,23.9234558,photo-bg_remove,AP-BG,AI,base,BG Remove
+olive,25.77376209,query-bg_remove,Q-BG,Query,base,BG Remove
+olive,30.56676689,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+peach,28.15600979,clipart-SAM,AC-SAM,AI,base,SAM
+peach,58.60133719,photo-SAM,AP-SAM,AI,base,SAM
+peach,43.91464429,query-SAM,Q-SAM,Query,base,SAM
+peach,28.33833423,queryclipart-SAM,QC-SAM,Query,base,SAM
+peach,25.99857748,clipart-bg_remove,AC-BG,AI,base,BG Remove
+peach,55.31400288,photo-bg_remove,AP-BG,AI,base,BG Remove
+peach,40.4487571,query-bg_remove,Q-BG,Query,base,BG Remove
+peach,23.00124395,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+peacock,14.47485705,clipart-SAM,AC-SAM,AI,base,SAM
+peacock,53.80303179,photo-SAM,AP-SAM,AI,base,SAM
+peacock,26.90908377,query-SAM,Q-SAM,Query,base,SAM
+peacock,32.4754595,queryclipart-SAM,QC-SAM,Query,base,SAM
+peacock,24.84449399,clipart-bg_remove,AC-BG,AI,base,BG Remove
+peacock,56.62362061,photo-bg_remove,AP-BG,AI,base,BG Remove
+peacock,38.44168229,query-bg_remove,Q-BG,Query,base,BG Remove
+peacock,38.44168229,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+penguin,78.3290878,clipart-SAM,AC-SAM,AI,base,SAM
+penguin,2.111029743,photo-SAM,AP-SAM,AI,base,SAM
+penguin,7.748463938,query-SAM,Q-SAM,Query,base,SAM
+penguin,58.22163103,queryclipart-SAM,QC-SAM,Query,base,SAM
+penguin,78.3290878,clipart-bg_remove,AC-BG,AI,base,BG Remove
+penguin,2.111029743,photo-bg_remove,AP-BG,AI,base,BG Remove
+penguin,65.13641752,query-bg_remove,Q-BG,Query,base,BG Remove
+penguin,58.34596576,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+polluted_sea,9.899709174,clipart-SAM,AC-SAM,AI,context,SAM
+polluted_sea,10.42619705,photo-SAM,AP-SAM,AI,context,SAM
+polluted_sea,5.315410664,query-SAM,Q-SAM,Query,context,SAM
+polluted_sea,56.76916982,queryclipart-SAM,QC-SAM,Query,context,SAM
+polluted_sea,5.750782616,clipart-bg_remove,AC-BG,AI,context,BG Remove
+polluted_sea,7.493040361,photo-bg_remove,AP-BG,AI,context,BG Remove
+polluted_sea,7.493040361,query-bg_remove,Q-BG,Query,context,BG Remove
+polluted_sea,63.83527913,queryclipart-bg_remove,QC-BG,Query,context,BG Remove
+polluted_sky,16.98884465,clipart-SAM,AC-SAM,AI,context,SAM
+polluted_sky,18.70394017,photo-SAM,AP-SAM,AI,context,SAM
+polluted_sky,34.64777893,query-SAM,Q-SAM,Query,context,SAM
+polluted_sky,27.35334953,queryclipart-SAM,QC-SAM,Query,context,SAM
+polluted_sky,37.58123884,clipart-bg_remove,AC-BG,AI,context,BG Remove
+polluted_sky,37.58123884,photo-bg_remove,AP-BG,AI,context,BG Remove
+polluted_sky,37.58123884,query-bg_remove,Q-BG,Query,context,BG Remove
+polluted_sky,37.58123884,queryclipart-bg_remove,QC-BG,Query,context,BG Remove
+quiet_forest,9.926318788,clipart-SAM,AC-SAM,AI,context,SAM
+quiet_forest,12.97439107,photo-SAM,AP-SAM,AI,context,SAM
+quiet_forest,12.97439107,query-SAM,Q-SAM,Query,context,SAM
+quiet_forest,12.97439107,queryclipart-SAM,QC-SAM,Query,context,SAM
+quiet_forest,41.11645377,clipart-bg_remove,AC-BG,AI,context,BG Remove
+quiet_forest,14.74199946,photo-bg_remove,AP-BG,AI,context,BG Remove
+quiet_forest,12.97439107,query-bg_remove,Q-BG,Query,context,BG Remove
+quiet_forest,21.04445656,queryclipart-bg_remove,QC-BG,Query,context,BG Remove
+sky,5.310469518,clipart-SAM,AC-SAM,AI,environment,SAM
+sky,24.52809943,photo-SAM,AP-SAM,AI,environment,SAM
+sky,22.88299061,query-SAM,Q-SAM,Query,environment,SAM
+sky,22.88299061,queryclipart-SAM,QC-SAM,Query,environment,SAM
+sky,55.17525904,clipart-bg_remove,AC-BG,AI,environment,BG Remove
+sky,58.58838381,photo-bg_remove,AP-BG,AI,environment,BG Remove
+sky,54.77202678,query-bg_remove,Q-BG,Query,environment,BG Remove
+sky,23.67261656,queryclipart-bg_remove,QC-BG,Query,environment,BG Remove
+tangerine,4.774278833,clipart-SAM,AC-SAM,AI,base,SAM
+tangerine,15.91782413,photo-SAM,AP-SAM,AI,base,SAM
+tangerine,1.961381389,query-SAM,Q-SAM,Query,base,SAM
+tangerine,1.961381389,queryclipart-SAM,QC-SAM,Query,base,SAM
+tangerine,4.800114092,clipart-bg_remove,AC-BG,AI,base,BG Remove
+tangerine,2.285557656,photo-bg_remove,AP-BG,AI,base,BG Remove
+tangerine,2.374894751,query-bg_remove,Q-BG,Query,base,BG Remove
+tangerine,5.851820904,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+tiger,0,clipart-SAM,AC-SAM,AI,base,SAM
+tiger,42.06282937,photo-SAM,AP-SAM,AI,base,SAM
+tiger,23.41773778,query-SAM,Q-SAM,Query,base,SAM
+tiger,9.354304349,queryclipart-SAM,QC-SAM,Query,base,SAM
+tiger,0.405309818,clipart-bg_remove,AC-BG,AI,base,BG Remove
+tiger,17.09573627,photo-bg_remove,AP-BG,AI,base,BG Remove
+tiger,20.43704648,query-bg_remove,Q-BG,Query,base,BG Remove
+tiger,2.786196543,queryclipart-bg_remove,QC-BG,Query,base,BG Remove
+tomato,4.525882204,clipart-SAM,AC-SAM,AI,base,SAM
+tomato,21.93168405,photo-SAM,AP-SAM,AI,base,SAM
+tomato,8.767013891,query-SAM,Q-SAM,Query,base,SAM
+tomato,7.017137541,queryclipart-SAM,QC-SAM,Query,base,SAM
+tomato,4.82544882,clipart-bg_remove,AC-BG,AI,base,BG Remove
+tomato,21.93168405,photo-bg_remove,AP-BG,AI,base,BG Remove
+tomato,7.210982552,query-bg_remove,Q-BG,Query,base,BG Remove
+tomato,7.017137541,queryclipart-bg_remove,QC-BG,Query,base,BG Remove

@@ -1,0 +1,36 @@
+apple
+banana
+blueberry
+cherry
+grape
+peach
+tangerine
+carrot
+celery
+corn
+eggplant
+mushroom
+olive
+tomato
+fox
+tiger
+lion
+elephant
+crocodile
+flamingo
+penguin
+peacock
+mountains
+sky
+ocean
+desert
+grassland
+forest
+lake
+glacier
+quiet forest
+lively forest
+clear sky
+polluted sky
+clear sea
+polluted sea

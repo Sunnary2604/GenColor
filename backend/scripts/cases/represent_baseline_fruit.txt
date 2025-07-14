@@ -1,0 +1,14 @@
+apple
+banana
+blueberry
+cherry
+grape
+peach
+tangerine
+carrot
+celery
+corn
+eggplant
+mushroom
+olive
+tomato

@@ -1,0 +1,6 @@
+quiet forest
+lively forest
+clear sky
+polluted sky
+clear sea
+polluted sea

@@ -1,0 +1,45 @@
+{
+  "name": "semantic-color",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "axios": "^1.6.8",
+    "chromatism": "^3.0.0",
+    "color-diff": "^1.4.0",
+    "color-difference": "^0.3.4",
+    "core-js": "^3.8.3",
+    "d3": "^7.9.0",
+    "delta-e": "^0.0.8",
+    "html2canvas": "^1.4.1",
+    "util": "^0.12.5",
+    "vega": "^5.28.0",
+    "vega-embed": "^6.25.0",
+    "vega-lite": "^5.18.0",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3",
+    "vuetify": "^3.5.16",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@eslint/js": "^9.1.1",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-vue": "^9.25.0",
+    "globals": "^15.0.0",
+    "prettier": "^2.4.1"
+  }
+}

@@ -1,0 +1,8 @@
+mountains
+sky
+ocean
+desert
+grassland
+forest
+lake
+glacier
