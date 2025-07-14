@@ -112,7 +112,9 @@ The color processing pipeline requires running the following steps in sequence. 
 
 1. **Step 1: Image Generation**
 
-   (You need to have a Stable Diffusion login account first. Run the following commands in terminal)
+   **Prerequisites**: You need a Hugging Face account and token to use Stable Diffusion 3. 
+   
+   Please follow [Hugging Face CLI Login Guide](https://huggingface.co/docs/huggingface_hub/en/guides/cli#huggingface-cli-login) to setup authentication.
 
    ```bash
    huggingface-cli login
