@@ -152,8 +152,9 @@ Visit `http://localhost:8080` to view the results gallery.
 
 
 ### Citation
+If you find our work helpful for your research, please consider citing the following BibTeX entry.
 
-```
+```bibtex
 @inproceedings{hou2025gencolor,
 author = {Hou, Yihan and Zeng, Xingchen and Wang, Yusong and Yang, Manling and Chen, Xiaojiao and Zeng, Wei},
 title = {GenColor: Generative Color-Concept Association in Visual Design},
