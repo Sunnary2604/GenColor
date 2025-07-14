@@ -23,21 +23,21 @@ We demonstrate two application scenarios where our method can support designers 
 
 ```
 GenColor-code/
-├── backend/                    								   # Backend code
+├── backend/                    				   # Backend code
 │   └── scripts/
-│       ├── api/               										# API interfaces
-│       ├── cases/             										# Test prompt files
-│       ├── models/            										# Core processing modules
-│       │   ├── Step1_image_generation.py      		         # Step 1: Image generation
-│       │   ├── Step2_segmentation.py          		         # Step 2: Image segmentation
-│       │   └── Step3_batch_color_extraction.py 	         # Step 3: Color extraction
-│       ├── settings/          										# Configuration files and data
-│       └── utils/             										# Utility functions
-├── frontend/                  									# Frontend gallery display
+│       ├── api/               						# API interfaces
+│       ├── cases/             						# Test prompt files
+│       ├── models/            						# Core processing modules
+│       │   ├── Step1_image_generation.py      		        
+│       │   ├── Step2_segmentation.py          		         
+│       │   └── Step3_batch_color_extraction.py
+│       ├── settings/          						# Configuration files and data
+│       └── utils/             						# Utility functions
+├── frontend/                  					# Frontend gallery display
 │   ├── src/
-│   │   ├── components/        										# Vue components
-│   │   └── views/            										# Page views
-│   └── public/              	 										# Static assets
+│   │   ├── components/        						# Vue components
+│   │   └── views/            						# Page views
+│   └── public/              	 					# Static assets
 └── README.md
 ```
 
